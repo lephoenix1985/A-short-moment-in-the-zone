@@ -1,4 +1,4 @@
-# fanyastic-story
+# A pragmatic-story
 learning and sharing.
 Hello world!
 Another day in paradise ,I'm in love with coding.
